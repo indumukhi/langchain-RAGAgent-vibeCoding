@@ -111,3 +111,6 @@ ai-rag-project/
         │   └── chat.component.scss  ← styles
         └── services/chat.service.ts ← HTTP call to Spring Boot
 ```
+
+<img width="1543" height="976" alt="image" src="https://github.com/user-attachments/assets/7992d9ec-d9f4-4d13-8557-651dbf6ca446" />
+
